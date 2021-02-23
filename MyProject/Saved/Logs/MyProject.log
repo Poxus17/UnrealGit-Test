@@ -675,10 +675,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.23-12.34.33:088][431]LogEditorActor: Deleted Actor: StaticMeshActor
 [2021.02.23-12.34.33:118][431]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
 [2021.02.23-12.34.33:124][431]LogEditorActor: Deleted 1 Actors (0.155 secs)
-[2021.02.23-12.36.47:192][994]LogActorFactory: Actor Factory created Cube
-[2021.02.23-12.36.48:550][ 36]LogActorFactory: Actor Factory created Cube
-[2021.02.23-12.37.16:802][323]LogSlate: Took 0.009326 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2021.02.23-12.37.16:942][323]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
-[2021.02.23-12.37.17:237][323]LogSavePackage: Moving '../../../../../../GitHub/UnrealGit-Test/MyProject/Saved/ThirdPersonExampleMap999197DF400BF17121C85A9FEF989D0B.tmp' to '../../../../../../GitHub/UnrealGit-Test/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
-[2021.02.23-12.37.17:339][323]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
-[2021.02.23-12.37.17:339][323]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+
